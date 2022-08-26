@@ -1,2 +1,4 @@
 # Chrono-CodeConquest
-A IOS based interactive Time managment app
+An IOS based interactive Time Managment app
+Languages Used: Swift
+Software Used: Xcode
